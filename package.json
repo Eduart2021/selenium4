@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "chromedriver": "^102.0.0",
+    "cucumber": "^6.0.7",
+    "selenium-webdriver": "^4.2.0",
+    "yarn": "^1.22.19"
+  },
+  "name": "selenium4",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Eduart2021/selenium4.git",
+  "author": "Eduart2021 <zeedymarina@yahoo.com>",
+  "license": "MIT"
+}
